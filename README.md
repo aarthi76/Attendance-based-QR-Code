@@ -48,10 +48,6 @@ Individual Report
 - Admin Portal
 - Faster Attendance taking process
 
-Authors
-------------
-- [Vinayak Bhanushali ](https://github.com/Vinayak-Bhanushali "Vinayak Bhanushali ")
-- [Parth Bhinde](https://github.com/parthbhinde "Parth Bhinde")
 
 
 
